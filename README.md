@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/viswanathsaj" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="viswanathsaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viswanathsaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="viswanathsaj" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/viswanathsaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="viswanathsaj" height="30" width="40" /></a>
-<a href="https://instagram.com/viswanathsaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="viswanathsaj" height="30" width="40" /></a>
-<a href="https://medium.com/@viswanathsaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@viswanathsaj" height="30" width="40" /></a>
+<a href="https://twitter.com/viswanathsaj" target="blank"><img align="center" src="https://github.com/viswanathsaj/viswanathsaj/blob/640380a1728c4793d3f91184bf32aefa72eff222/assets/twitter.svg" alt="viswanathsaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viswanathsaj" target="blank"><img align="center" src="https://github.com/viswanathsaj/viswanathsaj/blob/640380a1728c4793d3f91184bf32aefa72eff222/assets/linkedin.svg" alt="viswanathsaj" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/viswanathsaj" target="blank"><img align="center" src="https://github.com/viswanathsaj/viswanathsaj/blob/640380a1728c4793d3f91184bf32aefa72eff222/assets/stack-overflow.svg" alt="viswanathsaj" height="30" width="40" /></a>
+<a href="https://instagram.com/viswanathsaj" target="blank"><img align="center" src="https://github.com/viswanathsaj/viswanathsaj/blob/640380a1728c4793d3f91184bf32aefa72eff222/assets/instagram.svg" alt="viswanathsaj" height="30" width="40" /></a>
+<a href="https://medium.com/@viswanathsaj" target="blank"><img align="center" src="https://github.com/viswanathsaj/viswanathsaj/blob/640380a1728c4793d3f91184bf32aefa72eff222/assets/medium.svg" alt="@viswanathsaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
