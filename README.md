@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [viswanathsaj.com/blog](viswanathsaj.com/blog) 
 
-- 💬 Ask me about **react, svelte, js, ts**
+- 💬 Ask me about **absolutely anything**
 
 - 📫 How to reach me **hello@viswanathsaj.com**
 
