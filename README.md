@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my personal website](viswanathsaj.com)
 
-- 🌱 I’m currently learning **deep learning and blockchain**
+- 🌱 I’m currently learning **rust-lang and computational form**
 
 - 👯 I’m looking to collaborate on [handbook-for-humans]()
 
