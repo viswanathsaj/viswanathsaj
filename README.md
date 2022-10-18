@@ -1,21 +1,9 @@
 <h1>Hey there, I'm Viswanath 👋</h1> 
 <h3>Deploying (slightly better) shitpiles.</h3>
 
-- 🔭 I’m currently working on [my personal website](viswanathsaj.com)
+📝 I regularly write articles on [viswanathsaj.com/blog](viswanathsaj.com/blog) 
 
-- 🌱 I’m currently learning **rust-lang and computational form**
-
-- 👯 I’m looking to collaborate on [handbook-for-humans]()
-
-- 👨‍💻 My slice of the internet is at [viswanathsaj.com](viswanathsaj.com)
-
-- 📝 I regularly write articles on [viswanathsaj.com/blog](viswanathsaj.com/blog) 
-
-- 💬 Ask me about **absolutely anything**
-
-- 📫 How to reach me **hello@viswanathsaj.com**
-
-- 📄 Know about my experiences [viswanathsaj.com/resume](viswanathsaj.com/resume)
+📫 How to reach me **hello@viswanathsaj.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
